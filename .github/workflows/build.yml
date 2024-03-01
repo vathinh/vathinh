@@ -20,6 +20,11 @@ jobs:
         run: npm install
       - name: Rebuild README.md File
         run: npm run start
+      - name: Add User and Grant Write Access
+        uses: peter-evans/add-action@v2
+        with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         permission: write
       - name: Commit and Push if Changed
         run: |-
           git add .
