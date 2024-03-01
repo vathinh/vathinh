@@ -29,7 +29,8 @@
 </ul>
   </details>
 <p><a href="https://github.com/vathinh/vathinh/actions/workflows/build.yml"><img src="https://github.com/vathinh/vathinh/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+   <p>💬 How to reach me: Email </p>
   <div align="center">
-<pre><code>&lt;p&gt;💬 How to reach me: Email tv.thinh2000@gmail.com&lt;/p&gt;
+<pre><code>tv.thinh2000@gmail.com
 </code></pre>
   </div>
