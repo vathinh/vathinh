@@ -60,12 +60,14 @@ async function generateMarkdown() {
   ${await fetchGitHubData(ossLearningMaterialRepos)}\n
   </details>\n\n
     
-
   <a href="https://github.com/vathinh/vathinh/actions/workflows/build.yml"><img src="https://github.com/vathinh/vathinh/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a>\n
+   <p>💬 How to reach me: Email </p>\n
    
   <div align="center">\n
-    <p>💬 How to reach me: Email tv.thinh2000@gmail.com</p>\n
+    tv.thinh2000@gmail.com
   </div>`;
+
+
 
     const result = md.render(markdownText);
 
