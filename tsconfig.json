@@ -1,6 +1,8 @@
 // tsconfig.json
 {
   "compilerOptions": {
+    "types": ["node", "node-fetch"],
+    "typeRoots": ["node_modules/@types"],
     "target": "ES2015",
     "module": "commonjs",
     "strict": true,

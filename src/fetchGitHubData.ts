@@ -1,13 +1,26 @@
+import fetch from 'node-fetch'
+// Your code here
+
+interface GitHubRepo {
+    html_url: string;
+    full_name: string;
+    stargazers_count: number;
+    forks_count: number;
+    description: string; // Ensure 'description' property exists
+}
+
 export async function fetchGitHubData(repos: Array<string>): Promise<string> {
     const owner = "vathinh";
 
     const list = await Promise.all(
         repos.map(async (repo) => {
-            const response = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
+            const urlGithub = `https://api.github.com/repos/${owner}/${repo}`;
+
+            const response = await fetch(urlGithub);
             if (!response.ok) {
-                throw new Error(`"${owner}/${repo}" not found. Kindy review your list of repositories.`);
+                throw new Error(`"${owner}/${repo}" not found. Kindly review your list of repositories. This is the URL: ${urlGithub}`);
             }
-            const data = await response.json();
+            const data = await response.json() as GitHubRepo;
 
             const {
                 html_url: url,

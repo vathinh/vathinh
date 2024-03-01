@@ -11,12 +11,9 @@ const blogFeedUrl = "https://blog.bolajiayodeji.com/rss.xml";
 const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
 
 const ossProjectRepos = [
-    "WeatherChecker",
-    "BE-eProject",
-    "vathinh",
-    "Ecommerce"
+    "vathinh"
 ];
-const ossLearningMaterialRepos = ["Ecommerce", "WeatherChecker"];
+const ossLearningMaterialRepos = ["vathinh"];
 
 const githubUsername = "vathinh";
 const websiteUrl = "https://koffeeaddicted.com/";
