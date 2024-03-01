@@ -61,7 +61,7 @@ function generateMarkdown() {
   
   ---\n
   
-  Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content, build open-source projects and learning materials, speak/teach at developer meetups/conferences, and build several technical communities.\n
+👋🏾 Hi, I'm vathinh, a Java developer specializing in microservices architecture with Spring Boot. I have extensive experience deploying applications on AWS, orchestrating containerized environments with Kubernetes, and implementing CI/CD pipelines using GitHub Actions and Bitbucket Pipelines. Proficient in Docker for containerization, I excel in building robust, scalable solutions for modern software development.
   
   ---\n
 
@@ -75,7 +75,7 @@ function generateMarkdown() {
   ## Highlights
   
   <details>\n
-  <summary>OSS Projects</summary>\n
+  <summary>Projects</summary>\n
   <br />
   Here are some of my other projects you might want to check out that are not pinned:\n
   <br />\n<br />
@@ -83,20 +83,15 @@ function generateMarkdown() {
   </details>\n
   
   <details>\n
-  <summary>OSS Learning Materials</summary>\n
+  <summary>Learning Materials</summary>\n
   <br />
   Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:\n
   <br />\n<br />
   ${yield (0, fetchGitHubData_1.fetchGitHubData)(ossLearningMaterialRepos)}\n
-  </details>\n
-  
-  <details>\n
-  
-  <details>\n
-  <summary>Quick Tips</summary>\n\n
+  </details>\n\n
+    
   - 💬 How to reach me: Email tv.thinh2000@gmail.com.\n
-  </details>\n
-  
+
   ---\n
 
   <a href="https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a>\n
