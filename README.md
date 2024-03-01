@@ -29,40 +29,12 @@
 </ul>
   </details>
   <details>
-  <summary>Recent Blogposts</summary>
-  <br />
-  <ul>
-    <li><a href=https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Create an Automated Profile README using Nodejs and GitHub Actions</a> (5/12/2023).</li><li><a href=https://blog.bolajiayodeji.com/my-developer-advocate-portfolio?utm_source=github-profile target="_blank" rel="noopener noreferrer">My Developer Advocate Portfolio</a> (28/8/2023).</li><li><a href=https://blog.bolajiayodeji.com/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store?utm_source=github-profile target="_blank" rel="noopener noreferrer">Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store</a> (21/1/2023).</li><li><a href=https://blog.bolajiayodeji.com/introducing-github-community-health-files?utm_source=github-profile target="_blank" rel="noopener noreferrer">Introducing GitHub Community Health Files</a> (27/9/2022).</li><li><a href=https://blog.bolajiayodeji.com/contributing-to-open-source-pocket-guide?utm_source=github-profile target="_blank" rel="noopener noreferrer">Contributing to Open Source Pocket Guide</a> (11/9/2022).</li>
-  </ul>
-<p>Read more blog posts: <a href="https://blog.bolajiayodeji.com">https://blog.bolajiayodeji.com</a>.</p>
-  </details>
-  <details>
-  <summary>Recent Newsletters</summary>
-  <br />
-  <ul>
-    <li><a href=https://bawd.bolajiayodeji.com/p/bawd-120-react-server-components?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #120] React Server Components and OSS Fellowship</a> (20/2/2024).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-119-2024-and-the-ux-of-uuids?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #119] 2024 and The UX of UUIDs</a> (17/1/2024).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-118-the-valley-of-code-and-oss?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #118] The Valley of Code and OSS Alternatives</a> (17/12/2023).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-117-html-first-and-react-native?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #117] HTML First and React Native AI</a> (28/11/2023).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-116-prompt-engineering-oss-supply?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #116] Prompt Engineering, OSS Supply Chain, and Python Survey</a> (13/11/2023).</li>
-  </ul>
-<p>Read more newsletter issues: <a href="https://bawd.bolajiayodeji.com">https://bawd.bolajiayodeji.com</a>.</p>
-  </details>
-  <details>
   <summary>Quick Tips</summary>
 <ul>
 <li>
-<p>💬 How to reach me: DM <a href="https://twitter.com/iambolajiayo">@iambolajiayo</a> on X (Twitter).</p>
-</li>
-<li>
-<p>📬 Where to find me: Subscribe to my <a href="https://bawd.bolajiayodeji.com/subscribe">newsletter</a> to hear from me bi-weekly or send a game request on <a href="https://chess.com/member/bolajiayodeji">chess.com</a>.</p>
-</li>
-<li>
-<p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
-</li>
-<li>
-<p>💙 Fun fact: I'm in a blissful relationship <a href="https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&amp;version=NKJV">with Jesus Christ</a>. Check <a href="https://bit.ly/3KYYHij">this</a> out :).</p>
+<p>💬 How to reach me: Email tv.thinh2000@gmail.com.</p>
 </li>
 </ul>
   </details>
 <hr>
-<p><a href="https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
-  <div align="center">
-<p><a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a></p>
-  </div>
+<a href="https://github.com/vathinh/vathinh/actions/workflows/build.yml"><img src="https://github.com/vathinh/vathinh/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
