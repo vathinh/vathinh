@@ -28,11 +28,8 @@
 <li>More coming soon :).</li>
 </ul>
   </details>
-<ul>
-<li>💬 How to reach me: Email <a href="mailto:tv.thinh2000@gmail.com">tv.thinh2000@gmail.com</a>.</li>
-</ul>
-<hr>
-<p><a href="https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+<p><a href="https://github.com/vathinh/vathinh/actions/workflows/build.yml"><img src="https://github.com/vathinh/vathinh/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
   <div align="center">
-<p><a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a></p>
+<pre><code>&lt;p&gt;💬 How to reach me: Email tv.thinh2000@gmail.com&lt;/p&gt;
+</code></pre>
   </div>
