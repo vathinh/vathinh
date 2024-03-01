@@ -1,6 +1,6 @@
 <div align="center">
 <p><a href="https://koffeeaddicted.com/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/thinh-tran-java/"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://github.com/sponsors/vathinh"><img src="https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Sponsors Badge"></a> <img src="https://komarev.com/ghpvc/?username=vathinh&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,aws,docker,github,kubernetes,maven,idea" alt="My Skills"></a></p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,maven,aws,docker,kubernetes,github,idea" alt="My Skills"></a></p>
 <hr>
 <p>👋🏾 Hi, I'm vathinh, a Java developer specializing in microservices architecture with Spring Boot. I have extensive experience deploying applications on AWS, orchestrating containerized environments with Kubernetes, and implementing CI/CD pipelines using GitHub Actions and Bitbucket Pipelines. Proficient in Docker for containerization, I excel in building robust, scalable solutions for modern software development.</p>
 <hr>
