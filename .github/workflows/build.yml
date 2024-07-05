@@ -24,13 +24,23 @@ jobs:
         run: npm install
       - name: Rebuild README.md File
         run: npm run start
-      - name: Commit changes
+      - name: Configure Git
         run: |
           git config --global user.email "tv.thinh2000+githubAction@gmail.com"
           git config --global user.name "Github Actions Bot"
-          git checkout -b update-readme
+      - name: Create or Switch to Update Branch
+        run: |
+          git fetch
+          if git rev-parse --verify origin/update-readme; then
+            git checkout update-readme
+            git pull origin update-readme
+          else
+            git checkout -b update-readme
+          fi
+      - name: Commit changes
+        run: |
           git add .
-          git commit -m "docs: auto-update README.md"
+          git commit -m "docs: auto-update README.md" || exit 0
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
