@@ -12,7 +12,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.fetchGitHubData = void 0;
+exports.fetchGitHubData = fetchGitHubData;
 const node_fetch_1 = __importDefault(require("node-fetch"));
 function fetchGitHubData(repos) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -30,4 +30,3 @@ function fetchGitHubData(repos) {
         return `<ul>${list.join("")}\n<li>More coming soon :).</li>\n</ul>`;
     });
 }
-exports.fetchGitHubData = fetchGitHubData;
